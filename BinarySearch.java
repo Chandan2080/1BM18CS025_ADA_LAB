@@ -1,5 +1,5 @@
 import java.util.*;
-class Biny1{
+class BinarySearch{
 	static void binarysearch(int arr[], int start, int end, int key)
 	{
     	int mid;
